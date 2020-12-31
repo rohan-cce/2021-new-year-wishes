@@ -94,3 +94,10 @@ body {
                 visibility: hidden;
               }
             }
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(135deg,#111,#222,#111);
+}
