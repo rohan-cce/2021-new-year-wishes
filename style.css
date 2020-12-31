@@ -28,3 +28,6 @@ body {
     z-index: 15;
     animation: fadeout 11s linear forwards;
   }
+  .loading h2 {
+    color: #000;
+  }
