@@ -23,3 +23,4 @@ function stars(){
         section.appendChild(star);
         i++
 }
+}
