@@ -127,3 +127,17 @@ section::before{
     10px 10px 0 rgba(0, 0, 0, 0.2);
     animation: floating 5s ease-in-out infinite;
   }
+  .h2_main span{
+    font-weight: 700;
+    font-size: 3em;
+    text-shadow: 1px 1px 0 #ccc,
+    2px 2px 0 #ccc,
+    3px 3px 0 #ccc,
+    4px 4px 0 #ccc,
+    5px 5px 0 #ccc,
+    6px 6px 0 #ccc,
+    7px 7px 0 #ccc,
+    8px 8px 0 #ccc,
+    9px 9px 0 #ccc,
+    20px 20px 0 rgba(0, 0, 0, 0.2);
+  }
