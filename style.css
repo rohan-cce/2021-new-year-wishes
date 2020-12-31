@@ -140,7 +140,8 @@ section::before{
     8px 8px 0 #ccc,
     9px 9px 0 #ccc,
     20px 20px 0 rgba(0, 0, 0, 0.2);
-  }@keyframes floating{
+  }
+@keyframes floating{
     0%,100%{
       transform: skewY(-7deg) translate(0,-20px);
     }
