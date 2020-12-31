@@ -24,3 +24,4 @@ function stars(){
         i++
 }
 }
+stars();
