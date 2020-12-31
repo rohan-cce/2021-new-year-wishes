@@ -76,4 +76,7 @@ body {
         transform: scaleX(1);
       }
     }
-    
+    @keyframes fadeText {
+        0% {
+          opacity: 0;
+        }
