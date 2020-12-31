@@ -148,7 +148,7 @@ section::before{
         transform: skewY(-7deg) translate(0,20px);
       }
     }
-    section i{
+section i{
         position: absolute;
         background: #fff;
         border-radius: 50%;
@@ -158,3 +158,7 @@ section::before{
         0 0 80px #fff;
         animation: animate linear infinite;
       }
+      @keyframes animate{
+        0%{
+          opacity: 0;
+        }
