@@ -68,3 +68,7 @@ body {
     animation: animates 10s linear forwards;
   }
   
+@keyframes animates {
+    0% {
+      transform: scaleX(0);
+    }
