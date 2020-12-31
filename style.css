@@ -15,7 +15,7 @@ body {
     overflow: hidden;
     font-family: "Poppins", sans-serif;
   }
-  .loading {
+.loading {
     position: fixed;
     top: 0;
     left: 0;
