@@ -84,3 +84,9 @@ body {
             opacity: 1;
           }
         }
+@keyframes fadeout {
+            0%,
+            91% {
+              opacity: 1;
+              visibility: visible;
+            }
